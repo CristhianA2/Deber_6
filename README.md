@@ -63,7 +63,7 @@
 ![10](https://user-images.githubusercontent.com/85193519/127669222-73b0512d-0645-492b-95ad-97d843bb2aa1.jpg)
 
 # VIDEO
-
+https://youtu.be/4bnuBed8OuE
 # CONCLUSIONES
 Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por carga, descarga del capacitor,circuitos formadores de onda simples o por Magnetismo y circuitos magnéticos que lo aprendidio en clases se ha clarificado, se obtuvo de mejor manera el aprendizaje dado en clase, ampliando el conocimiento en Carga, descarga del capacitor y circuitos formadores de onda simples, Magnetismo y circuitos magnéticos.
 # BIBLIOGRAFIA
